@@ -15,17 +15,18 @@ body{
 input[type="text"]::-webkit-input-placeholder{
   color: #153038;
   font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
   text-align: center;
   letter-spacing: 0.5px;
 }
 
 .field{
-  display: block;
   color: #394e55;
   font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
   text-align: center;
-  width: 60vh;
-  height: 30px;
+  width: 70vh;
+  height: 40px;
   background-color: #abb4b7;
   border: 1px solid #394e55;
   transition: .3s box-shadow;
